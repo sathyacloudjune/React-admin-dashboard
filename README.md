@@ -5,3 +5,6 @@ $ cd my-project
 
 # install app's dependencies
 $ npm install
+
+#Run
+$ npm start
